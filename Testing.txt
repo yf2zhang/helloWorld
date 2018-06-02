@@ -1,1 +1,2 @@
 Demonstrating git add.
+Also demonstrating git commit.
